@@ -40,7 +40,7 @@
               <a class="nav-link js-scroll-trigger" href="#Textos"></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="Quiztestesfinais3/linhadotempo.html">Linha do tempo</a>
+              <a class="nav-link js-scroll-trigger" href="linhaDoTempo/linhadotempo.html">Linha do tempo</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="login.php" >Quiz</a>

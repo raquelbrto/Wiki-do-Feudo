@@ -1,0 +1,162 @@
+body{
+	margin:0;
+	padding: 0;
+}
+ul{
+display: inline-flex;
+list-style-type: none;
+margin: 0;
+margin-left: 40%;
+
+}
+ul li{
+  width: 100px;
+  line-height: 40px;
+  text-align: center;
+  
+}
+
+.vrau{
+	color: white;
+	font-size: 1.5em;
+	font-weight: bold;
+	outline: none;
+	text-decoration: none;
+	font-family: calibri;
+	text-shadow: 2px 2px black;
+}
+.menuzao{
+	display: inline-block;
+	margin-top: 50px;
+	
+	width: 100%;
+}
+.im{
+	margin-left: 7%;
+	font-weight: bold;
+	color: white;
+	font-family: 'Calibri';
+	font-size: 1.8rem;
+	text-shadow: 2px 2px black;
+	
+
+
+}
+.back{
+	width: 100%;
+		height:1300px;
+		background: url(../img/bg-masthead.jpg) fixed no-repeat;
+		-webkit-background-size:cover;
+		-o-background-size:cover;
+		-moz-background-size: cover;
+		background-size: cover;
+}
+.texto1{
+				margin-top: 3%;
+ 				background-color: white;
+ 				width: 70%;
+ 				border-radius: 25px;
+ 				height: 1000px;
+ 				margin-left: 15%;
+ 				border: 2px solid black;
+ 			}
+ 			.paragraph{
+ 				 margin-left: 10%;
+ 				 margin-right: 10%;
+ 			}
+.bgblack{
+	background: #161616!important;
+	width: 100%;
+	height: 100px;
+}
+.bloco, .bloco1{
+	background-color: white;
+	width: 345px;
+	border-radius: 5px;
+	float: left;
+	margin-left: 5%;
+	height: 212px;
+	margin-top: 6%;
+	color: rgba(0,0,0,.5)!important;
+	border-bottom: .25rem solid #64a19d;
+}
+.bloco1{
+	margin-left: 17.5%;
+}
+.paragraph2 {
+  color: blue;
+}
+.paragraph2{
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 20px;
+}
+.pin.icon {
+  color: #000;
+  margin-left: 47%;
+  margin-top: 7%;
+  width: 12px;
+  height: 12px;
+  border: solid 1px currentColor;
+  border-radius: 7px 7px 7px 0;
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+.pin.icon:before {
+  content: '';
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  width: 4px;
+  height: 4px;
+  border: solid 1px currentColor;
+  border-radius: 3px;
+}
+.pin.icon:hover {
+    opacity: 0.7;
+}
+.paragraph3 {
+  color: blue;
+}
+.paragraph3{
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: -40px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 40px 2px;
+  border-radius: 50%;
+  margin-left: 40%;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-instagram {
+  background: white;
+  color: grey;
+}
+
+
+
+.paragraph4 {
+  color: blue;
+}
+.paragraph4{
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: -30px;
+}
+.paragrafu{
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+
+}
