@@ -18,4 +18,4 @@ Quiz didatico voltado para o ensino superio e medio sobre o periodo da Idade Med
 
 *Tela do quiz
 <img src="https://github.com/RaquelABrito/Wiki-do-Feudo
-/blob/img/tela1.png?raw=true" alt="tela quiz"/>
+/blob/master/img/tela1.png" alt="tela quiz"/>
