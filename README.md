@@ -17,3 +17,6 @@ Quiz didatico voltado para o ensino superio e medio sobre o periodo da Idade Med
 
 *Tela do quiz
 <img src="https://github.com/RaquelABrito/Wiki-do-Feudo/blob/master/img/telaQuiz.png?raw=true" alt="tela quiz"/>
+
+*Linha do Tempo 
+<img src="https://github.com/RaquelABrito/Wiki-do-Feudo/blob/master/img/telaLinha.png?raw=true" alt="linha do tempo"/>
